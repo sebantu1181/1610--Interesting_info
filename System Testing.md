@@ -1,4 +1,4 @@
-# System Testing
+ System Testing
 * Is testing conducted on a complete integrated system to evaluate the system's compliance with its specified requirements
 * the purpose is to detect any inconsistencies between units that are integrated together called ** assemblages. **
 * System testing seeks to detect defects within the entire system: 
