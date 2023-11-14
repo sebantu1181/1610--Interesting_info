@@ -4,9 +4,9 @@
 
 ### Chosen Interests for Completion - Software development: 
 
-* [System Testing](/System%20Testing.md)
-* [Acceptance Testing](Acceptance%20Testing.md)
-* Test Driven Development
+* [System Testing](/System_Testing.md)
+* [Acceptance Testing](Acceptance_Testing.md)
+* [Test Driven Development](Test_Driven_Development.md)
 
 
 
