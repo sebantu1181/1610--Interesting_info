@@ -12,9 +12,9 @@
 ### Few Types of System Testing:
 
 1. Integrated Testing
-  - System testing involves testing the interactions and interfaces between different components or modules of the software to ensure that they work together as intended.
+   - System testing involves testing the interactions and interfaces between different components or modules of the software to ensure that they work together as intended.
 2. Functional Testing
-  - This aspect checks whether the software functions according to the specified requirements.
+   - This aspect checks whether the software functions according to the specified requirements.
   - It involves testing features, data manipulation, user interfaces, and other functional aspects of the system.
 3. Performance Testing
   - Tests the system's performance under various conditions, such as load testing to assess its behavior under heavy usage,
