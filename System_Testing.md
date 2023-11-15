@@ -33,5 +33,5 @@ System testing is a level of software testing where the complete and integrated 
    - Any changes made during development or maintenance are tested to ensure that existing functionality is not negatively affected.  
 9. Etc..
 
-
-[<< Back](README.md)                __  [>> Next](Acceptance_Testing.md)
+___
+[<< Back](README.md)                ____________________  [>> Next](Acceptance_Testing.md)
