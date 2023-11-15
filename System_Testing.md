@@ -7,6 +7,7 @@ System testing is a level of software testing where the complete and integrated 
   * reliability, and
   * other aspects.
 
+---
 
 ### Few Types of System Testing:
 
@@ -33,5 +34,5 @@ System testing is a level of software testing where the complete and integrated 
    - Any changes made during development or maintenance are tested to ensure that existing functionality is not negatively affected.  
 9. Etc..
 
-___
+
 [<< Back](README.md)                ____________________  [>> Next](Acceptance_Testing.md)
