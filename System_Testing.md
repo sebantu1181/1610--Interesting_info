@@ -15,23 +15,23 @@
    - System testing involves testing the interactions and interfaces between different components or modules of the software to ensure that they work together as intended.
 2. Functional Testing
    - This aspect checks whether the software functions according to the specified requirements.
-  - It involves testing features, data manipulation, user interfaces, and other functional aspects of the system.
+   - It involves testing features, data manipulation, user interfaces, and other functional aspects of the system.
 3. Performance Testing
-  - Tests the system's performance under various conditions, such as load testing to assess its behavior under heavy usage,
-  - stress testing to check its response to extreme conditions, and
-  - scalability testing to determine how well it can handle growing amounts of data or users.
+   - Tests the system's performance under various conditions, such as load testing to assess its behavior under heavy usage,
+   - stress testing to check its response to extreme conditions, and
+   - scalability testing to determine how well it can handle growing amounts of data or users.
 4. Usability Testing
-  - This aspect measures how user-friendly the system is.
-  - It considers factors such as user interfaces, navigation, and overall user experience.
+   - This aspect measures how user-friendly the system is.
+   - It considers factors such as user interfaces, navigation, and overall user experience.
 5. Security Testing
-  - The system is tested for vulnerabilities and potential security risks to ensure that sensitive information is protected and that the system is resistant to unauthorized access. 
+   - The system is tested for vulnerabilities and potential security risks to ensure that sensitive information is protected and that the system is resistant to unauthorized access. 
 6. Compatability Testing
-  - Verifies that the software works correctly with different operating systems, browsers, and other third-party components. 
+   - Verifies that the software works correctly with different operating systems, browsers, and other third-party components. 
 7. Reliability and Availability Testing
-  - Assesses the reliability and availability of the software under normal and exceptional conditions.
-  - It checks whether the system can recover from failures and how it handles errors. 
+   - Assesses the reliability and availability of the software under normal and exceptional conditions.
+   - It checks whether the system can recover from failures and how it handles errors. 
 8. Regression Testing
-  - Any changes made during development or maintenance are tested to ensure that existing functionality is not negatively affected.  
+   - Any changes made during development or maintenance are tested to ensure that existing functionality is not negatively affected.  
 9. Etc..
 
 
