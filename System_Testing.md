@@ -11,7 +11,7 @@ The purpose of system testing is to evaluate the system's compliance with the sp
 
 ---
 
-## Types of System Testing:
+## Types of System Testing
 
 1. Integrated Testing
    - System testing involves testing the interactions and interfaces between different components or modules of the software to ensure that they work together as intended.
