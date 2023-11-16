@@ -11,7 +11,7 @@ The TDD process follows a cycle of repetitive steps, known as the **"Red-Green-R
 
 1. **Red**: Write a failing test
    - In this step, the developer writes a test that checks a specific piece of functionality or behavior that is not yet implemented.
-   - Since there is no code to satisfy the test, it initially fails
+   - Since there is no code to satisfy the test, it initially fails.
 2. **Green**: Write the minimum code to pass the test
    -  In this step, the developer writes the minimum amount of code necessary to make the test pass.
    -  The focus is on implementing the required functionality and no more.
@@ -33,7 +33,7 @@ The TDD process follows a cycle of repetitive steps, known as the **"Red-Green-R
 
 > TDD is closely associated with automated testing frameworks, where tests can be easily run and verified.
 
-#### Testing Frameworks for Test-Driveb Development include:
+#### Testing Frameworks for Test-Driven Development include:
 
 * JUnit for Java
 * pytest for Python
