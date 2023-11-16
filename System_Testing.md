@@ -39,12 +39,24 @@ The purpose of system testing is to evaluate the system's compliance with the sp
 
 ### Benefits of System Testing
 
-* **Identifying Defects**: Allows for the early detection and rectification of defects. By testing the entire integrated system, it helps catch issues that may not be apparent during unit testing or integration testing.
-* **Comprehensive Testing**: It provides a comprehensive evaluation of the entire software system, including interactions between different components. This helps ensure that all functionalities work together seamlessly.
-* **Verification of Requirements**: Verifies that the software system meets specified requirements. It ensures that both functional and non-functional requirements are implemented correctly and that the system behaves as intended.
-* **Enhancing System Reliability**: By rigorously testing the system's stability, performance, and reliability, system testing helps enhance the overall dependability of the software. This is crucial for systems that require high levels of reliability and uptime.
-* **Reduction of Post-Deployment Issues**: By uncovering and resolving issues before deployment, system testing reduces the likelihood of post-deployment problems. This contributes to a smoother transition to the production environment.
-* **Quality Assurance**: The comprehensive nature of system testing contributes to the overall quality assurance process. It helps build confidence among stakeholders that the software system is reliable and ready for deployment. 
+* **Identifying Defects**:
+   - Allows for the early detection and rectification of defects.
+   - By testing the entire integrated system, it helps catch issues that may not be apparent during unit testing or integration testing.
+* **Comprehensive Testing**:
+   - It provides a comprehensive evaluation of the entire software system, including interactions between different components.
+   - This helps ensure that all functionalities work together seamlessly.
+* **Verification of Requirements**:
+   - Verifies that the software system meets specified requirements.
+   - It ensures that both functional and non-functional requirements are implemented correctly and that the system behaves as intended.
+* **Enhancing System Reliability**:
+   - By rigorously testing the system's stability, performance, and reliability, system testing helps enhance the overall dependability of the software.
+   - This is crucial for systems that require high levels of reliability and uptime.
+* **Reduction of Post-Deployment Issues**:
+   - By uncovering and resolving issues before deployment, system testing reduces the likelihood of post-deployment problems.
+   - This contributes to a smoother transition to the production environment.
+* **Quality Assurance**:
+   - The comprehensive nature of system testing contributes to the overall quality assurance process.
+   - It helps build confidence among stakeholders that the software system is reliable and ready for deployment. 
 
 
 
