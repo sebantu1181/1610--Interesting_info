@@ -9,13 +9,13 @@ The TDD process follows a cycle of repetitive steps, known as the **"Red-Green-R
 
 ## Three Main Phases in TDD cycle: 
 
-1. Red: Write a failing test
+1. **Red**: Write a failing test
    - In this step, the developer writes a test that checks a specific piece of functionality or behavior that is not yet implemented.
    - Since there is no code to satisfy the test, it initially fails
-2. Green: Write the minimum code to pass the test
+2. **Green**: Write the minimum code to pass the test
    -  In this step, the developer writes the minimum amount of code necessary to make the test pass.
    -  The focus is on implementing the required functionality and no more.
-3. Refactor: Improve the code without changing its behavior
+3. **Refactor**: Improve the code without changing its behavior
    - After the test has been successfully passed, the developer refactors the code to improve its structure, readability, or efficiency.
    - The goal is to enhance the code without altering its external behavior.
 
